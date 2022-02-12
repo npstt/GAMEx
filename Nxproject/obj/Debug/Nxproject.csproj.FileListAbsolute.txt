@@ -1,0 +1,12 @@
+C:\Users\nop\Desktop\Nxproject\Nxproject\bin\Debug\Nxproject.exe.config
+C:\Users\nop\Desktop\Nxproject\Nxproject\bin\Debug\Nxproject.exe
+C:\Users\nop\Desktop\Nxproject\Nxproject\bin\Debug\Nxproject.pdb
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.Form1.resources
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.Properties.Resources.resources
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.csproj.GenerateResource.Cache
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.exe
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.pdb
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Interop.WMPLib.dll
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.csproj.ResolveComReference.cache
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.csprojAssemblyReference.cache
+C:\Users\nop\Desktop\Nxproject\Nxproject\obj\Debug\Nxproject.csproj.CoreCompileInputs.cache
